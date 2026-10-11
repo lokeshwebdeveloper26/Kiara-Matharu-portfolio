@@ -39,14 +39,14 @@ export const modelData: ModelData = {
 
   // Optional fields left blank are automatically hidden.
   details: {
-    age: "" ,
-    dateOfBirth: "",
+    age: "02 years" ,
+    dateOfBirth: "16 Feb 2024",
     height: "",
-    weight: "",
+    weight: "16 kg",
     Bust: "",
-    skinTone: "",
-    hairColor: "",
-    eyeColor: "",
+    skinTone: "Medium",
+    hairColor: "Black",
+    eyeColor: "Brown",
     ShoeSize: "",
     Hips: "",
     Waist: "",
@@ -56,8 +56,8 @@ export const modelData: ModelData = {
   // Parent/guardian names are optional and often kept private.
   // Leave blank to hide them entirely.
   parents: {
-    fatherName: "",
-    motherName: "",
+    fatherName: "Mr. Shaan Singh Matharu",
+    motherName: "Mrs. Sharanpreet Matharu",
   },
 
   // Instagram handle WITHOUT the @ (managed by parents/agency).
